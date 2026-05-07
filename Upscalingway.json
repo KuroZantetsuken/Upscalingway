@@ -1,0 +1,14 @@
+{
+  "Author": "KuroZantetsuken",
+  "Name": "Upscalingway",
+  "Punchline": "Unsticks DLSS from DLAA.",
+  "Description": "Automatically cycles upscaling methods on login to ensure DLSS uses custom resolutions from DLSS Tweaker.",
+  "Tags": [
+    "dlss",
+    "upscaler",
+    "fix",
+    "graphics"
+  ],
+  "RepoUrl": "https://github.com/KuroZantetsuken/Upscalingway",
+  "DalamudApiLevel": 15
+}
