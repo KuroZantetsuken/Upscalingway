@@ -2,7 +2,7 @@
   "Author": "KuroZantetsuken",
   "Name": "Upscalingway",
   "Punchline": "Unsticks DLSS from DLAA.",
-  "Description": "Automatically cycles upscaling methods on login to ensure DLSS uses custom resolutions from DLSS Tweaker.",
+  "Description": "Automatically sets upscaling to FSR in the main menu (to allow render resolution scaling) and switches to DLSS on login (to force custom resolutions from DLSS Tweaker).",
   "Tags": [
     "dlss",
     "upscaler",
