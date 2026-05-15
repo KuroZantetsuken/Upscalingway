@@ -1,0 +1,25 @@
+[{
+  "Author": "KuroZantetsuken",
+  "Name": "Upscalingway",
+  "InternalName": "Upscalingway",
+  "Description": "Automatically sets upscaling to FSR in the main menu (to allow render resolution scaling) and switches to DLSS on login (to force custom resolutions from DLSS Tweaker).",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/KuroZantetsuken/Upscalingway",
+  "Tags": [
+    "dlss",
+    "upscaler",
+    "fix",
+    "graphics"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Unsticks DLSS from DLAA.",
+  "AcceptsFeedback": true,
+  "AssemblyVersion": "1.0.2.0",
+  "DownloadLinkInstall": "https://github.com/KuroZantetsuken/Upscalingway/releases/download/v1.0.2/Upscalingway.zip",
+  "DownloadLinkUpdate": "https://github.com/KuroZantetsuken/Upscalingway/releases/download/v1.0.2/Upscalingway.zip",
+  "DownloadLinkTesting": "https://github.com/KuroZantetsuken/Upscalingway/releases/download/v1.0.2/Upscalingway.zip"
+}]
